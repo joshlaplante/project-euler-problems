@@ -38,5 +38,3 @@ Project Euler is a website full of hundreds of math-based computer programming c
 #### [Problem 45](https://github.com/joshlaplante/portfolio-for-JoshLaPlante/blob/master/Python/Project%20Euler%20Problems/45%20triangular%20pentagonal%20hexagonal.py)
 * Finds the next number past 40,755 that is triangular, pentagonal, and hexagonal
 
-***
-[return to portfolio](https://github.com/joshlaplante/portfolio-for-JoshLaPlante)
